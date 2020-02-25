@@ -4,6 +4,7 @@
 
 .form_elements {
   margin-bottom: 10px;
+  display: block;
 }
 
 .form_elements:last-child {
